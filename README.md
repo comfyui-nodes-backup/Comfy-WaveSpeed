@@ -3,7 +3,7 @@
 The all in one inference optimization solution for ComfyUI, universal, flexible, and fast.
 
 > No GPU to spare? The same model families run on
-> [WaveSpeed AI](https://wavespeed.ai/), an AI image & video generation platform —
+> [WaveSpeed AI](https://wavespeed.ai/?utm_source=github&utm_medium=readme&utm_campaign=Comfy-WaveSpeed), an AI image & video generation platform —
 > see [Running these models without a local GPU](#running-these-models-without-a-local-gpu).
 
 Available today:
@@ -110,22 +110,22 @@ Or you could launch your `ComfyUI` with environment variable `TORCH_LOGS=recompi
 
 This plugin makes local ComfyUI inference faster. If you don't have a GPU to run
 these models on in the first place, the same model families are available on
-[WaveSpeed AI](https://wavespeed.ai/), an AI image & video generation platform.
+[WaveSpeed AI](https://wavespeed.ai/?utm_source=github&utm_medium=readme&utm_campaign=Comfy-WaveSpeed), an AI image & video generation platform.
 
 **Browser playgrounds** — no install, no API key:
 
-- [Image generator](https://wavespeed.ai/image-generator) — Nano Banana 2, Seedream, GPT Image, Z-Image and more, switchable from one page
-- [Video generator](https://wavespeed.ai/video-generator) — Seedance, Wan, Kling, Veo and more
-- [Full model catalog](https://wavespeed.ai/models)
+- [Image generator](https://wavespeed.ai/image-generator?utm_source=github&utm_medium=readme&utm_campaign=Comfy-WaveSpeed) — Nano Banana 2, Seedream, GPT Image, Z-Image and more, switchable from one page
+- [Video generator](https://wavespeed.ai/video-generator?utm_source=github&utm_medium=readme&utm_campaign=Comfy-WaveSpeed) — Seedance, Wan, Kling, Veo and more
+- [Full model catalog](https://wavespeed.ai/models?utm_source=github&utm_medium=readme&utm_campaign=Comfy-WaveSpeed)
 
 **Popular endpoints:**
 
 | Model | Page |
 | - | - |
-| Z-Image Turbo (fast, inexpensive) | [wavespeed-ai/z-image/turbo](https://wavespeed.ai/models/wavespeed-ai/z-image/turbo) |
-| Nano Banana 2 | [google/nano-banana-2/text-to-image](https://wavespeed.ai/models/google/nano-banana-2/text-to-image) |
-| Seedream 5.0 Pro | [bytedance/seedream-v5.0-pro](https://wavespeed.ai/models/bytedance/seedream-v5.0-pro) |
-| Seedance 2.5 (text to video) | [bytedance/seedance-2.5/text-to-video](https://wavespeed.ai/models/bytedance/seedance-2.5/text-to-video) |
+| Z-Image Turbo (fast, inexpensive) | [wavespeed-ai/z-image/turbo](https://wavespeed.ai/models/wavespeed-ai/z-image/turbo?utm_source=github&utm_medium=readme&utm_campaign=Comfy-WaveSpeed) |
+| Nano Banana 2 | [google/nano-banana-2/text-to-image](https://wavespeed.ai/models/google/nano-banana-2/text-to-image?utm_source=github&utm_medium=readme&utm_campaign=Comfy-WaveSpeed) |
+| Seedream 5.0 Pro | [bytedance/seedream-v5.0-pro](https://wavespeed.ai/models/bytedance/seedream-v5.0-pro?utm_source=github&utm_medium=readme&utm_campaign=Comfy-WaveSpeed) |
+| Seedance 2.5 (text to video) | [bytedance/seedance-2.5/text-to-video](https://wavespeed.ai/models/bytedance/seedance-2.5/text-to-video?utm_source=github&utm_medium=readme&utm_campaign=Comfy-WaveSpeed) |
 
 **From ComfyUI**, the [wavespeed-comfyui](https://github.com/WaveSpeedAI/wavespeed-comfyui)
 plugin exposes the whole hosted catalog through a single node whose widgets are
